@@ -1,0 +1,8 @@
+/home/flavio/mestrado/engsoftsys/projeto-transparencia/src/main/java/br/edu/ifpb/transparencia/controller/UsuarioController.java
+/home/flavio/mestrado/engsoftsys/projeto-transparencia/src/main/java/br/edu/ifpb/transparencia/repository/UsuarioRepository.java
+/home/flavio/mestrado/engsoftsys/projeto-transparencia/src/main/java/br/edu/ifpb/transparencia/security/SecurityConfiguration.java
+/home/flavio/mestrado/engsoftsys/projeto-transparencia/src/main/java/br/edu/ifpb/transparencia/model/ResultHandler.java
+/home/flavio/mestrado/engsoftsys/projeto-transparencia/src/main/java/br/edu/ifpb/transparencia/TransparenciaApplication.java
+/home/flavio/mestrado/engsoftsys/projeto-transparencia/src/main/java/br/edu/ifpb/transparencia/util/Md5Converter.java
+/home/flavio/mestrado/engsoftsys/projeto-transparencia/src/main/java/br/edu/ifpb/transparencia/service/UsuarioService.java
+/home/flavio/mestrado/engsoftsys/projeto-transparencia/src/main/java/br/edu/ifpb/transparencia/model/Usuario.java

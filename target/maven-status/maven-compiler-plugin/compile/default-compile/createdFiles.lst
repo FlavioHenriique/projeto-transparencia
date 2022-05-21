@@ -1,0 +1,8 @@
+br/edu/ifpb/transparencia/security/SecurityConfiguration.class
+br/edu/ifpb/transparencia/util/Md5Converter.class
+br/edu/ifpb/transparencia/controller/UsuarioController.class
+br/edu/ifpb/transparencia/model/ResultHandler.class
+br/edu/ifpb/transparencia/TransparenciaApplication.class
+br/edu/ifpb/transparencia/model/Usuario.class
+br/edu/ifpb/transparencia/service/UsuarioService.class
+br/edu/ifpb/transparencia/repository/UsuarioRepository.class
